@@ -1,0 +1,9 @@
+﻿a b c
+->q0 q1 q2 q3 *q4 q5 q6
+q0:a,q1 b,q3 c,q6
+q1:a,q2 b,q6 c,q6
+q2:a,q0 b,q6 c,q6
+q3:a,q6 b,q5 c,q4
+q4:a,q4 b,q6 c,q6
+q5:a,q6 b,q6 c,q6
+q6:a,q6 b,q6 c,q6
